@@ -31,10 +31,20 @@ To deploy this polybar on terminal run
 If you see a bar on top viola!! ccongratulations
 but this will close when you exit terminal,and  will not start while rebooting
 
+
 ```bash
   cd .config/
 ```
 ```bash
   cd autostart
 ```
-then refer and make a sh file 
+move the poly.sh file if you have not already to autostart
+```bash
+  chmod +x poly.sh.desktop
+```
+restart,most probably it should work if it didnt google it
+
+
+#Polybar
+![linux](https://github.com/AKHIL-DyC/polybar_configs/assets/119416316/ebad68cc-6a2a-4f82-837c-b178d681f387)
+
