@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=.config/polybar/launch.sh
+Icon=
+Name=poly.sh
+Path=.config/polybar/launch.sh
+Terminal=false
+Type=Application
