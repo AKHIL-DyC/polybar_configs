@@ -42,7 +42,7 @@ move the poly.sh file if you have not already to autostart
 ```bash
   chmod +x poly.sh.desktop
 ```
-restart,most probably it should work if it didnt google it
+restart,most probably it should work if it didnt google the issue 
 
 
 #Polybar
